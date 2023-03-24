@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='[https://i.imgur.com/mA5dU7m.gif](https://i.imgur.com/3EqpdjD.gif)' title='Project #4' width='' alt='Project #4' />
+<img src='[https://i.imgur.com/mA5dU7m.gif]' title='Project #4' width='' alt='Project #4' />
 
 GIF created with **Kap**
 
