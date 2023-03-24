@@ -34,7 +34,6 @@ The following EXTRA features are implemented:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
--![Sample Gif](http://i.imgur.com/4wuOLi8.gif)
 
 <img src='https://i.imgur.com/4wuOLi8.gif' title='Project #4' width='' alt='Project #4' />
 
