@@ -17,6 +17,7 @@ If I had to describe this project in three (3) emojis, they would be: **👍🏻
 <!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
 
 The following REQUIRED features are completed:
+![ezgif com-video-to-gif (5)](https://user-images.githubusercontent.com/116980504/227409959-b4e065bd-ef99-4faf-a42a-29450ebc06d7.gif)
 
 - [x] At least one (1) user input
 - [x] At least one (1) interactive View
