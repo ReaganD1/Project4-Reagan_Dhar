@@ -35,8 +35,9 @@ The following EXTRA features are implemented:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
+![ezgif com-video-to-gif (5)](https://user-images.githubusercontent.com/116980504/227409959-b4e065bd-ef99-4faf-a42a-29450ebc06d7.gif)
 
-<img src='![ezgif com-video-to-gif (5)](https://user-images.githubusercontent.com/116980504/227409959-b4e065bd-ef99-4faf-a42a-29450ebc06d7.gif)' title='Project #4' width='' alt='Project #4' />
+<img src='https://i.imgur.com/4wuOLi8.gif' title='Project #4' width='' alt='Project #4' />
 
 GIF created with **Kap**
 
